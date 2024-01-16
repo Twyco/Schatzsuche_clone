@@ -1,0 +1,10 @@
+name: Schatzsuche
+version: '${project.version}'
+main: de.twyco.schatzsuche.Schatzsuche
+api-version: 1.19
+authors: [Twyco]
+description: Plugin für stegi Sagt
+website: twyco.de
+load: POSTWORLD
+commands:
+  schatzsuche:
